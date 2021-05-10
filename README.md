@@ -1,6 +1,6 @@
 # flutter_1
 
-A new Flutter application.
+A Flutter application - 200Lab - B1
 
 ## Getting Started
 
