@@ -22,7 +22,7 @@ class MyHomePage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    var scaffold = Scaffold(
+    return Scaffold(
         body: ListView(
       children: [
         Image.asset(
@@ -54,7 +54,6 @@ class MyHomePage extends StatelessWidget {
       ],
       physics: AlwaysScrollableScrollPhysics(),
     ));
-    return scaffold;
   }
 }
 
